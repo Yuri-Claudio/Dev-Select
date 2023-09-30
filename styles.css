@@ -75,16 +75,7 @@ p{
       line-height: 1;
     }
 
-    section{
-      
-      .review{
-        scale: 26.25%;
-      }
 
-      .review2{
-        scale: 52.5%;
-      }
-    }
     
   }
 
@@ -102,12 +93,7 @@ p{
     section {
       width: 95vw;
 
-      .review2{
-        scale: 52.5%;
-      }
-      .review{
-        scale: 26.25%;
-      }
+      
     }
 
    
